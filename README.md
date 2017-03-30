@@ -1,3 +1,9 @@
+# Resistr
+
+Track your, and your team's, civic engagement.
+
+![Resistr Demo](https://github.com/jacobmoe/resistr/blob/master/assets/demo.gif)
+
 ## Development
 
 ### API
