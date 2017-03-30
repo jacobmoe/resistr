@@ -3,7 +3,7 @@
 ### API
 https://github.com/jacobmoe/resistr-api
 
-#### Prerequisites
+#### Requirements
 - [PostgreSQL](https://www.postgresql.org/)
 - [Nodejs](https://nodejs.org/) > 7.0
 
@@ -51,7 +51,9 @@ make test
 ```
 
 ### UI
-#### Prerequisites
+https://github.com/jacobmoe/resistr-ui
+
+#### Requirements
 - [Nodejs](https://nodejs.org/)
 
 Install the project
